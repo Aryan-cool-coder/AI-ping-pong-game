@@ -1,0 +1,17 @@
+
+#heading {
+  margin: 0px;
+  border-radius: 20px;
+  box-shadow: 5px 5px purple;
+  border: dashed 5px 5px;
+  background-color: cyan;
+}
+
+#play {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    font-size: 20px;
+}
+#instructions {
+  right: 0px;
+}
